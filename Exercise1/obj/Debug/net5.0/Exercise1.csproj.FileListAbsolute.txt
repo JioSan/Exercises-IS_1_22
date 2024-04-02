@@ -1,0 +1,16 @@
+P:\ТРПО\Exercises-IS_1_22\Exercise1\bin\Debug\net5.0\Exercise1.exe
+P:\ТРПО\Exercises-IS_1_22\Exercise1\bin\Debug\net5.0\Exercise1.deps.json
+P:\ТРПО\Exercises-IS_1_22\Exercise1\bin\Debug\net5.0\Exercise1.runtimeconfig.json
+P:\ТРПО\Exercises-IS_1_22\Exercise1\bin\Debug\net5.0\Exercise1.runtimeconfig.dev.json
+P:\ТРПО\Exercises-IS_1_22\Exercise1\bin\Debug\net5.0\Exercise1.dll
+P:\ТРПО\Exercises-IS_1_22\Exercise1\bin\Debug\net5.0\ref\Exercise1.dll
+P:\ТРПО\Exercises-IS_1_22\Exercise1\bin\Debug\net5.0\Exercise1.pdb
+P:\ТРПО\Exercises-IS_1_22\Exercise1\obj\Debug\net5.0\Exercise1.csproj.AssemblyReference.cache
+P:\ТРПО\Exercises-IS_1_22\Exercise1\obj\Debug\net5.0\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+P:\ТРПО\Exercises-IS_1_22\Exercise1\obj\Debug\net5.0\Exercise1.AssemblyInfoInputs.cache
+P:\ТРПО\Exercises-IS_1_22\Exercise1\obj\Debug\net5.0\Exercise1.AssemblyInfo.cs
+P:\ТРПО\Exercises-IS_1_22\Exercise1\obj\Debug\net5.0\Exercise1.csproj.CoreCompileInputs.cache
+P:\ТРПО\Exercises-IS_1_22\Exercise1\obj\Debug\net5.0\Exercise1.dll
+P:\ТРПО\Exercises-IS_1_22\Exercise1\obj\Debug\net5.0\ref\Exercise1.dll
+P:\ТРПО\Exercises-IS_1_22\Exercise1\obj\Debug\net5.0\Exercise1.pdb
+P:\ТРПО\Exercises-IS_1_22\Exercise1\obj\Debug\net5.0\Exercise1.genruntimeconfig.cache
